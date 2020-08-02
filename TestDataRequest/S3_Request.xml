@@ -1,0 +1,12 @@
+<data>
+    <Client ClientId="1111">
+        <ClientName>Amazon1</ClientName>
+        <PurchaseAmount>100</PurchaseAmount>
+        <SellAmount>200</SellAmount>
+    </Client>
+    <Client ClientId="2222">
+        <ClientName>Google</ClientName>
+        <PurchaseAmount>1500</PurchaseAmount>
+        <SellAmount>2500</SellAmount>
+    </Client>
+</data>

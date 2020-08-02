@@ -1,0 +1,4 @@
+ClientId,ClientName,PurchaseAmount,SellAmount,Netting
+1111,Amazon,100,200,200
+2222,Google,1500,2500,1000
+3333,Microsoft,4000,6000,2000
